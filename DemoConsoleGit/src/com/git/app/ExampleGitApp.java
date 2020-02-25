@@ -8,6 +8,9 @@ public class ExampleGitApp {
 		
 		//hello
 		System.out.println("hello");
+		
+		//hello Git
+		System.out.println("git");
 
 	}
 }
