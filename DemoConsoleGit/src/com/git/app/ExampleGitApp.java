@@ -6,6 +6,13 @@ public class ExampleGitApp {
 
 		System.out.println("WELCOME TO GIT MERGE");
 		
+		//hello
+		System.out.println("hello");
+		
+		//hello Git
+		System.out.println("git");
+		
+		System.out.println("Fifth Change");
 
 	}
 }
